@@ -12,8 +12,8 @@ This project explores global/regional electric vehicle adoption data to uncover 
 * **Vehicle Segmentation:** Insights into Battery Electric Vehicles (BEVs) vs. Plug-in Hybrid Electric Vehicles (PHEVs).
 
 ## Tableau Public Link
-You can view the interactive dashboard on Tableau Public: [Insert Tableau Public Link Here]
+You can view the interactive dashboard on Tableau Public: [Global EV Manufacturing Footprint Dashboard](https://public.tableau.com/views/EVMarketPerormance/GlobalEVmanufacturingfootprint?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Built With
 * **Tableau:** Data visualization and interactive dashboard design.
-* **Data Source:** [Mention your data source, e.g., Kaggle / Government EV datasets].
+** **Data Source:**[EV Market Classification Dataset on Kaggle](https://www.kaggle.com/datasets/tharishreddy22/electric-vehicle-market-classification-dataset)
