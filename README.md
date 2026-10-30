@@ -43,7 +43,8 @@ You can view the interactive dashboard on Tableau Public: [Global EV Manufacturi
 
 ├── assets/                  #![EV Dashboard](assets/ev-dashboard-png.png)
                              
-├── data/                    # Cleaned datasets used for the Tableau workbook
+├── data/                    # https://www.kaggle.com/datasets/tharishreddy22/electric-vehicle-market-classification-dataset)
+
 ├── workbook/                # Tableau packaged workbook (.twbx file)
 └── README.md                # Project documentation
 
