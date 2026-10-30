@@ -16,7 +16,7 @@ The primary objective is to transform raw data into actionable, visual intellige
 
 ### Tableau Story – Global EV Distribution
 
-![EV Story](assets/ev-story-png.png)
+[![EV Story](assets/ev-story.png_.png)](assets/ev-story.png_.png)
 
 
 Key Features & Insights
