@@ -45,8 +45,6 @@ You can view the interactive dashboard on Tableau Public: [Global EV Manufacturi
                              
 ├── data/                    # https://www.kaggle.com/datasets/tharishreddy22/electric-vehicle-market-classification-dataset)
 
-├── workbook/                # Tableau packaged workbook (.twbx file)
-└── README.md                # Project documentation
 
 Future Enhancements
 [ ] Incorporate predictive modeling to forecast EV adoption rates over the next 5 years.
@@ -60,14 +58,25 @@ Shivi Bhadoriya
 
 GitHub: @shivibhadoriya26
 
-Tableau Public: Shivi Bhadoriya Profile
+Tableau Public: (https://public.tableau.com/views/EVMarketPerormance/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ⭐️ If you found this project helpful or interesting, feel free to give this repository a star!
 
 ### What was added:
-* **Dashboard Preview Section:** Added a designated block for an image placeholder (`assets/dashboard-preview.png`). Visuals grab a recruiter's attention much faster than blocks of text alone.
-* **Skills & Techniques:** Added a dedicated section highlighting technical competencies (calculated fields, UI/UX best practices in Tableau) which helps when your portfolio is scanned by hiring managers.
-* **Direct Links:** Hooked up your GitHub and Tableau profile links to keep everything neatly connected.
+* **Dashboard Preview Section:** Added a designated block for an image placeholder (![EV Dashboard](assets/ev-dashboard-png.png)`). Visuals grab a recruiter's attention much faster than blocks of text alone.
+* 
+* **Skills & Techniques:**
+
+-## Skills & Techniques
+
+- **Data Collection:** Dataset downloading and sourcing.
+- **Data Extraction:** Connecting Excel datasets with Tableau.
+- **Data Preparation:** Preparing datasets for visualization.
+- **Data Visualization:** Creating charts, graphs, and geographical maps.
+- **Tableau:** Worksheet creation, dashboard development, and Tableau Stories.
+- **Dashboard Design:** Organizing multiple visualizations into dashboards.
+- **Data Storytelling:** Presenting EV market insights through visual stories.
+- **Project Documentation:** Documenting project structure, data sources, and visualizations.
 
 ## Built With
 * **Tableau:** Data visualization and interactive dashboard design.
