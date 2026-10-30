@@ -9,9 +9,15 @@ The primary objective is to transform raw data into actionable, visual intellige
 
 ## 🖼️ Dashboard Preview
 
-*(Tip: Add a screenshot of your Tableau dashboard here to give visitors an immediate visual preview!)*
-```text
-[ ![EV Dashboard Preview](assets/dashboard-preview.png) ]
+
+### Main EV Market Performance Dashboard
+
+![EV Dashboard](assets/ev-dashboard-png.png)
+
+### Tableau Story – Global EV Distribution
+
+![EV Story](assets/ev-story-png.png)
+
 
 Key Features & Insights
 📈 Market Growth Trends: Tracks year-over-year growth in EV registrations, sales volumes, and market expansion trajectories.
@@ -40,7 +46,8 @@ You can view the interactive dashboard on Tableau Public: [Global EV Manufacturi
 
 ## Project Structure
 
-├── assets/                  # Dashboard screenshots and preview images
+├── assets/                  #![EV Dashboard](assets/ev-dashboard-png.png)
+                             #![EV Story](assets/ev-story-png.png)
 ├── data/                    # Cleaned datasets used for the Tableau workbook
 ├── workbook/                # Tableau packaged workbook (.twbx file)
 └── README.md                # Project documentation
